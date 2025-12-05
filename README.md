@@ -1,1 +1,1 @@
-Project for intro to cs class
+Wordle wordsearch game made with Tkinter and Python
